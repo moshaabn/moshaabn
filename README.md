@@ -1,20 +1,18 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Mohamed+Shaaban;Senior+.NET+Backend+Engineer;SaaS+%26+System+Architecture+Enthusiast;Cloud+%7C+Security+%7C+Scalability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Mohamed+Shaaban;Senior+.NET+Backend+Engineer;Strong+Full+Stack+Experience+with+Next.js;SaaS+%26+System+Architecture+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I am a **Senior Backend Engineer** with strong expertise in **.NET Core, ABP Framework, and RESTful APIs**, specializing in **scalable SaaS architectures** and **multi-tenant systems**.
+I am a **Senior Backend Engineer** with deep expertise in **.NET Core, ABP Framework, and RESTful APIs**, combined with **strong Full Stack experience using Next.js and React**.
 
-I focus on building **clean, secure, and high-performance backend solutions**, with hands-on experience in:
-- Multi-tenant SaaS platforms
-- Role-based access control (RBAC)
-- Secure authentication (JWT)
-- Cloud-ready deployments using Docker
+I specialize in designing and building **scalable SaaS platforms**, **multi-tenant systems**, and **secure backend architectures**, while also delivering **production-grade frontend applications** when required.
 
-💡 *My goal is to design backend systems that are scalable, maintainable, and production-ready.*
+Most of my professional work is developed under **NDAs and private repositories**.
+
+💡 *My focus is on building systems that are scalable, secure, maintainable, and production-ready.*
 
 ---
 
@@ -28,15 +26,25 @@ I focus on building **clean, secure, and high-performance backend solutions**, w
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=swagger&logoColor=white"/>
 </p>
 
+### 🎨 Frontend (Strong Experience)
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</p>
+
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ DevOps & Deployment
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-EB6536?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux%20Server%20Deployment-0A0A0A?style=flat-square"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
@@ -57,20 +65,39 @@ I focus on building **clean, secure, and high-performance backend solutions**, w
 
 ---
 
-## 🧩 Architecture Experience
-- Multi-tenant SaaS systems (ABP Framework)
-- Clean Architecture & DDD
-- Secure API design & authorization flows
-- High-concurrency and transactional systems
+## 🧩 Architecture & System Design Experience
+- Multi-tenant SaaS platforms using **ABP Framework**
+- Clean Architecture & Domain-Driven Design (DDD)
+- Secure authentication & authorization flows
+- Transactional systems & concurrency handling
+- API performance optimization & scalability
+
+---
+
+## 🔒 Selected Work (Private Repositories)
+Most of my production work is maintained in **private repositories** due to:
+- Client NDAs
+- Commercial confidentiality
+- Internal enterprise systems
+
+### Highlights
+- Multi-tenant SaaS platform with tenant-isolated data
+- Custom role-based permissions per tenant
+- Secure authentication using **JWT** & policy-based authorization
+- High-traffic REST APIs with strong transactional guarantees
+- Dockerized deployments on **Ubuntu servers**
+- Full Stack applications using **Next.js** integrated with .NET backends
+
+📌 *Code samples and architectural discussions can be shared upon request.*
 
 ---
 
 ## 📚 Current Focus
 - Advanced ABP Framework customization
-- Multi-tenant permissions & custom domains
-- Dockerized production deployments
-- Backend performance optimization
-- System design & scalability
+- Multi-tenant permissions & role management
+- Custom domains with automated SSL
+- Dockerized deployments on Ubuntu
+- Backend performance & system scalability
 
 ---
 
@@ -87,8 +114,3 @@ I focus on building **clean, secure, and high-performance backend solutions**, w
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
-</p>
